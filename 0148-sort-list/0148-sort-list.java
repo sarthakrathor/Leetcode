@@ -8,31 +8,52 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
-import java.util.Collections;
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head == null) return null;
-        if(head.next == null) return head;
+        if(head == null || head.next == null) return head;
+        ListNode mid = findMid(head);
 
-        ArrayList<Integer> arr = new ArrayList<>();
-        ListNode temp = head;
-        while(temp!=null){
-            arr.add(temp.val);
+        ListNode left = head;
+        ListNode right = mid.next;
+        mid.next = null;
+
+        left = sortList(left);
+        right = sortList(right);
+
+        return mergeLL(left,right);
+    }
+
+    ListNode findMid(ListNode head){
+        if(head == null || head.next == null) return head;
+        ListNode slow = head;
+        ListNode fast = head.next; //to get the left mid
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+
+        return slow;
+    }
+
+    ListNode mergeLL(ListNode list1,ListNode list2){
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+
+        while(list1!=null && list2!=null){
+            if(list1.val < list2.val){
+                temp.next = list1;
+                list1 = list1.next;
+            }else{
+                temp.next = list2;
+                list2 = list2.next;
+            }
             temp=temp.next;
         }
 
-        Collections.sort(arr);
+        if(list1!=null) temp.next = list1;
+        else temp.next = list2;
 
-        int i = 0;
-        temp = head;
-        
-        while(temp!=null){
-            temp.val = arr.get(i);
-            i++;
-            temp=temp.next;
-        }
-
-        return head;
+        return dummy.next;
     }
 }
