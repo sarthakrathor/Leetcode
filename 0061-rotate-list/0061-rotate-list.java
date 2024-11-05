@@ -27,9 +27,9 @@ class Solution {
 
         tail.next = head;
         tail = temp;
-        temp = temp.next;
+        head = temp.next;
         tail.next = null;
 
-        return temp;
+        return head;
     }
 }
