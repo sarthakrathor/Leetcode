@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -65,4 +66,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthakrathor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
