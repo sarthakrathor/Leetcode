@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -21,6 +22,7 @@ Leetcode Solutions
 | [0061-rotate-list](https://github.com/sarthakrathor/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -69,6 +71,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthakrathor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
