@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -96,4 +99,5 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
