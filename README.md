@@ -12,6 +12,7 @@ Leetcode Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -65,6 +66,7 @@ Leetcode Solutions
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -91,6 +93,7 @@ Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
