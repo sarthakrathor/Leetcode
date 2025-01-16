@@ -15,6 +15,7 @@ Leetcode Solutions
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ Leetcode Solutions
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Leetcode Solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +99,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
