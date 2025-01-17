@@ -17,6 +17,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -119,9 +120,14 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
