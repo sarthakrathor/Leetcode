@@ -10,6 +10,7 @@ Leetcode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ Leetcode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sarthakrathor/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
@@ -71,6 +73,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
