@@ -92,6 +92,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
@@ -115,6 +116,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -126,6 +128,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
