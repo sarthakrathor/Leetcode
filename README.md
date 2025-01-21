@@ -35,6 +35,7 @@ Leetcode Solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakrathor/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
@@ -49,6 +50,7 @@ Leetcode Solutions
 | [0061-rotate-list](https://github.com/sarthakrathor/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakrathor/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sarthakrathor/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -117,6 +119,7 @@ Leetcode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakrathor/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
