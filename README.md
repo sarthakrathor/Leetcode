@@ -59,6 +59,7 @@ Leetcode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -135,6 +136,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
