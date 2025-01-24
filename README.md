@@ -58,6 +58,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sarthakrathor/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -155,4 +156,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sarthakrathor/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
