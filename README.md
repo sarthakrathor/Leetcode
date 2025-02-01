@@ -48,6 +48,7 @@ Leetcode Solutions
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Leetcode Solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/sarthakrathor/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sarthakrathor/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
