@@ -15,6 +15,7 @@ Leetcode Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarthakrathor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@ Leetcode Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarthakrathor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarthakrathor/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakrathor/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +116,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarthakrathor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
