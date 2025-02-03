@@ -27,6 +27,7 @@ Leetcode Solutions
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakrathor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/sarthakrathor/Leetcode/tree/master/0739-daily-temperatures) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sarthakrathor/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -75,6 +76,7 @@ Leetcode Solutions
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sarthakrathor/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -91,6 +93,7 @@ Leetcode Solutions
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sarthakrathor/Leetcode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
