@@ -27,6 +27,7 @@ Leetcode Solutions
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakrathor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sarthakrathor/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sarthakrathor/Leetcode/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarthakrathor/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -183,6 +184,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakrathor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sarthakrathor/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarthakrathor/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakrathor/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
