@@ -89,6 +89,7 @@ Leetcode Solutions
 | [0203-remove-linked-list-elements](https://github.com/sarthakrathor/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -127,6 +128,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthakrathor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -194,6 +196,7 @@ Leetcode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -203,4 +206,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakrathor/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
