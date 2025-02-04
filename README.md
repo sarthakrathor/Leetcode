@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthakrathor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -210,4 +212,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
