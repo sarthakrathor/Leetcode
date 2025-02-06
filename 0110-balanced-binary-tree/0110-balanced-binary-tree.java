@@ -16,23 +16,20 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root == null) return true;
-        return helper(root) != -1;
+        
+        int lh = height(root.left);
+        int rh = height(root.right);
+
+        boolean c1 = Math.abs(lh-rh) <= 1;
+        boolean c2 = isBalanced(root.left);
+        boolean c3 = isBalanced(root.right);
+        return c1 && c2 && c3;
     }
 
-    int helper(TreeNode temp){
+    int height(TreeNode temp){
         if(temp == null) return 0;
-        
-        //case 1 for checking if lest subtree is balanced or not
-        int left = helper(temp.left);
-        if(left == -1) return -1;
-        
-        //case 2 for checking if right subtree is balanced or not
-        int right = helper(temp.right);
-        if(right == -1) return -1;
-        
-        //case 3 for checking if complete tree is balanced or not
-        if(Math.abs(left-right) > 1) return -1;
-
-        return Math.max(left,right)+1;
+        int l = height(temp.left);
+        int r = height(temp.right);
+        return Math.max(l,r)+1;
     }
 }
