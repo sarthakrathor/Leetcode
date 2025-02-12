@@ -15,23 +15,16 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        return dia(root);
+        int[] dia = new int[1];
+        dia(root,dia);
+        return dia[0];
     }
-    int dia(TreeNode root){
-        int count = 0;
-        if(root == null){
-            return 0;
-        }
-        int d = height(root.left)+height(root.right);
-        int d1 = dia(root.left);
-        int d2 = dia(root.right);
-        return Math.max(d,Math.max(d1,d2));
-    }
-
-    int height(TreeNode temp){
+    
+    int dia(TreeNode temp,int[] maxi){
         if(temp == null) return 0;
-        int l = height(temp.left);
-        int r = height(temp.right);
+        int l = dia(temp.left,maxi);
+        int r = dia(temp.right,maxi);
+        maxi[0] = Math.max(maxi[0],l+r);
         return Math.max(l,r)+1;
     }
 }
