@@ -84,6 +84,7 @@ Leetcode Solutions
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarthakrathor/Leetcode/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -179,6 +180,7 @@ Leetcode Solutions
 | [0344-reverse-string](https://github.com/sarthakrathor/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthakrathor/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -291,4 +293,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
