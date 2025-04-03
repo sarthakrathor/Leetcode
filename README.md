@@ -25,6 +25,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakrathor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ Leetcode Solutions
 | [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarthakrathor/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
+| [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthakrathor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
@@ -168,6 +170,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthakrathor/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sarthakrathor/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakrathor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -225,6 +228,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
+| [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Tree
 |  |
