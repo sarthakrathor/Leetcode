@@ -9,6 +9,7 @@ Leetcode Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthakrathor/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/sarthakrathor/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarthakrathor/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
@@ -227,6 +228,7 @@ Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sarthakrathor/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
