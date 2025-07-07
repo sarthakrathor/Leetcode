@@ -59,6 +59,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/sarthakrathor/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarthakrathor/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/sarthakrathor/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sarthakrathor/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/sarthakrathor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -130,6 +131,7 @@ Leetcode Solutions
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/sarthakrathor/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthakrathor/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sarthakrathor/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Merge Sort
@@ -233,6 +235,7 @@ Leetcode Solutions
 | ------- |
 | [0155-min-stack](https://github.com/sarthakrathor/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakrathor/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/sarthakrathor/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -328,4 +331,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sarthakrathor/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sarthakrathor/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sarthakrathor/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
