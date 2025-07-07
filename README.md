@@ -21,6 +21,7 @@ Leetcode Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakrathor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sarthakrathor/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sarthakrathor/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sarthakrathor/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sarthakrathor/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sarthakrathor/Leetcode/tree/master/0268-missing-number) |
@@ -194,6 +196,7 @@ Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sarthakrathor/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthakrathor/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -322,6 +325,7 @@ Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
