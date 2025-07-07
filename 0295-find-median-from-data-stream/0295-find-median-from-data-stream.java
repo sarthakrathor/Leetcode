@@ -5,11 +5,22 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
-        int index = Collections.binarySearch(nums, num);
-        if (index < 0) {
-            index = -(index + 1);
+        // int index = Collections.binarySearch(nums, num);
+        // if (index < 0) {
+        //     index = -(index + 1);
+        // }
+        // nums.add(index, num);
+        if (nums.isEmpty()) {
+        nums.add(num);
+        return;
         }
-        nums.add(index, num);
+
+        int insertIndex = 0;
+        while (insertIndex < nums.size() && nums.get(insertIndex) < num) {
+            insertIndex++;
+        }
+
+        nums.add(insertIndex, num);
     }
     
     public double findMedian() {
