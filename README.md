@@ -273,6 +273,7 @@ Leetcode Solutions
 | [0543-diameter-of-binary-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/sarthakrathor/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakrathor/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Leetcode Solutions
 | [0543-diameter-of-binary-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/sarthakrathor/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakrathor/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Leetcode Solutions
 | [0543-diameter-of-binary-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/sarthakrathor/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakrathor/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Leetcode Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sarthakrathor/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sarthakrathor/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthakrathor/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## String Matching
 |  |
 | ------- |
