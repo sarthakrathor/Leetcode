@@ -197,6 +197,7 @@ Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakrathor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sarthakrathor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/sarthakrathor/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sarthakrathor/Leetcode/tree/master/0344-reverse-string) |
@@ -231,6 +232,7 @@ Leetcode Solutions
 | [0070-climbing-stairs](https://github.com/sarthakrathor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sarthakrathor/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sarthakrathor/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sarthakrathor/Leetcode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/sarthakrathor/Leetcode/tree/master/0377-combination-sum-iv) |
 | [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
@@ -255,6 +257,7 @@ Leetcode Solutions
 | [0039-combination-sum](https://github.com/sarthakrathor/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/sarthakrathor/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sarthakrathor/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/sarthakrathor/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/sarthakrathor/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Tree
