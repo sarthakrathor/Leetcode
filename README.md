@@ -19,6 +19,7 @@ Leetcode Solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthakrathor/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sarthakrathor/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthakrathor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakrathor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarthakrathor/Leetcode/tree/master/0169-majority-element) |
@@ -231,6 +232,7 @@ Leetcode Solutions
 | [0042-trapping-rain-water](https://github.com/sarthakrathor/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sarthakrathor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakrathor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sarthakrathor/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sarthakrathor/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sarthakrathor/Leetcode/tree/master/0198-house-robber) |
@@ -334,6 +336,7 @@ Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakrathor/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/sarthakrathor/Leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Simulation
