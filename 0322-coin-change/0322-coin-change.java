@@ -1,8 +1,8 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        Integer[][] dp = new Integer[coins.length+1][amount+1];
+        int[][] dp = new int[coins.length+1][amount+1];
         for (int j = 0; j <= amount; j++) {
-            dp[0][j] = Integer.MAX_VALUE-1; 
+            dp[0][j] = amount+1; 
         }
         dp[0][0] = 0;
 
