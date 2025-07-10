@@ -207,6 +207,7 @@ Leetcode Solutions
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/sarthakrathor/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Leetcode Solutions
 | [0322-coin-change](https://github.com/sarthakrathor/Leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sarthakrathor/Leetcode/tree/master/0377-combination-sum-iv) |
 | [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/sarthakrathor/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
