@@ -204,6 +204,7 @@ Leetcode Solutions
 | [0205-isomorphic-strings](https://github.com/sarthakrathor/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sarthakrathor/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthakrathor/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/sarthakrathor/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/sarthakrathor/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarthakrathor/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakrathor/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -240,6 +241,7 @@ Leetcode Solutions
 | [0198-house-robber](https://github.com/sarthakrathor/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sarthakrathor/Leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sarthakrathor/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0516-longest-palindromic-subsequence](https://github.com/sarthakrathor/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sarthakrathor/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sarthakrathor/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Design
